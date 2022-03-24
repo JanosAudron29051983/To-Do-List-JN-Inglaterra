@@ -2,7 +2,7 @@
 
 ## Tareas 22-03-2022
 
-[X] Constancias LYAM y Valentina
+* [X] Constancias LYAM y Valentina
 
 [X] Declaraciones Juradas Edad Niño Eli
 
