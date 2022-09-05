@@ -1,5 +1,6 @@
 # Tareas por realizar
 
+<<<<<<< HEAD
 ## Tareas 01-06-2022
 
 * [] Correos 5
@@ -259,4 +260,36 @@
 
 * [] 5 Correos
 
+## Tareas 25-08-2022
 
+* [] 13 Correos
+
+* [] Encuentro Calidad
+
+## Tareas 26-08-2022
+
+* [] 12 Correos
+
+## Tareas 29-08-2022
+
+* [] 10 Correos
+
+## Tareas 30-08-2022
+
+* [] 11 Correos
+
+## Tareas 31-08-2022
+
+* [] 13 Correos
+
+## Tareas 01-09-2022
+
+* [] 14 Correos
+
+## Tareas 02-09-2022
+
+* [] 7 Correos
+
+## Tareas 05-09-2022
+
+* [] 13 Correos
