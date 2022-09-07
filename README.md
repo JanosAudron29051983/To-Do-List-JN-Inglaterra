@@ -293,3 +293,13 @@
 ## Tareas 05-09-2022
 
 * [] 13 Correos
+
+## Tareas 06-09-2022
+
+* [] 15 Correos
+
+## Tareas 07-09-2022
+
+* [] 4 Correos
+
+* [] Reunión Directores Finca Colegio Calasanz
