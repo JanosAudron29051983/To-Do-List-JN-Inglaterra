@@ -307,3 +307,16 @@
 ## Tareas 08-09-2022
 
 * [] 4 Correos
+
+## Tareas 09-09-2022
+
+* [] 5 Correos
+
+## Tareas 12-09-2022
+
+* [] 8 Correos
+
+## Tareas 14-09-2022
+
+* [] 29 Correos
+
