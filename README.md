@@ -328,5 +328,27 @@
 
 * [] 3 Correos
 
+## Tareas 22-09-2022
 
+* [] 3 Correos
+
+## Tareas 23-09-2022
+
+* [] 4 Correos
+
+## Tareas 26-09-2022
+
+* [] 12 Correos
+
+## Tareas 27-09-2022
+
+* [] 15 Correos
+
+## Tareas 28-09-2022
+
+* [] 2 Correos
+
+## Tareas 29-09-2022
+
+* [] 4 Correos
 
