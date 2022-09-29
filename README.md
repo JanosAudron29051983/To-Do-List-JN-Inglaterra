@@ -352,3 +352,7 @@
 
 * [] 4 Correos
 
+* [] Recolección de firmas y compleción de documentos a enviar a Juntas por parte de la contadora
+
+
+
