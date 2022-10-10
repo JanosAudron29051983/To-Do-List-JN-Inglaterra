@@ -354,5 +354,35 @@
 
 * [] Recolección de firmas y compleción de documentos a enviar a Juntas por parte de la contadora
 
+## Tareas 30-09-2022
 
+* [] 4 Correos
+
+* [] Día del Vaquero
+
+* [] Capacitación IDP "12 de octubre: Costa Rica y su diversidad cultural"
+
+## Tareas 03-10-2022
+
+* [] 27 Correos
+
+## Tareas 04-10-2022
+
+* [] 7 Correos
+
+## Tareas 05-10-2022
+
+* [] 20 Correos
+
+* [] Envío de correo referente a la apertura del SIRIMEP desde el 3 de octubre 2022
+
+* [] Confección de documento resumen sobre las actividades patrias del 2022
+
+## Tareas 06-10-2022
+
+* [] 10 Correos
+
+## Tareas 10-10-2022
+
+* [] 17 Correos
 
