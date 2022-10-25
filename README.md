@@ -373,7 +373,7 @@
 ## Tareas 05-10-2022
 
 * [] 20 Correos
-
+-
 * [] Envío de correo referente a la apertura del SIRIMEP desde el 3 de octubre 2022
 
 * [] Confección de documento resumen sobre las actividades patrias del 2022
@@ -382,7 +382,54 @@
 
 * [] 10 Correos
 
+## Tareas 07-10-2022
+
+* [] 4 Correos
+
 ## Tareas 10-10-2022
 
 * [] 17 Correos
 
+## Tareas 11-10-2022
+
+* [] 10 Correos
+
+* [] Reunión de directores mes de octubre
+
+## Tareas 12-10-2022
+
+* [] 21 Correos
+
+* [] Marca de salida jefa
+
+## Tareas 13-10-2022
+
+* [] 9 Correos
+
+## Tareas 14-10-2022
+
+* [] 11 Correos
+
+## Tareas 17-09-2022
+
+* [] 35 Correos
+
+## Tareas 18-10-2022
+
+* [] 11 Correos
+
+## Tareas 19-10-2022
+
+* [] 5 Correos
+
+## Tareas 20-10-2022
+
+* [] 8 Correos
+
+## Tareas 21-10-2022
+
+* [] 14 Correos
+
+## Tareas 24-10-2022
+
+* [] 6 Correos
