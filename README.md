@@ -1,6 +1,5 @@
 # Tareas por realizar
 
-<<<<<<< HEAD
 ## Tareas 01-06-2022
 
 * [] Correos 5
@@ -433,3 +432,38 @@
 ## Tareas 24-10-2022
 
 * [] 6 Correos
+
+## Tareas 25-10-2022
+
+* [] 12 Correos
+
+## Tareas 26-10-2022
+
+* [] 4 Correos
+
+* [] Simulacro Incendios
+
+## Tareas 27-10-2022
+
+* [] 16 Correos
+
+* [] Acto Cívico y ventas de Patronato
+
+* [] Revisión del Ampo #2 de Calidad(Puntos del 22 al 47)
+
+## Tareas 28-10-2022
+
+* [x] 6 Correos
+
+## Tareas 31-10-2022
+
+* [x] 7 Correos
+
+## Tareas 01-11-2022
+
+* [x] 8 Correos
+
+## Tareas 02-11-2022
+
+* [x] 4 Correos
+
