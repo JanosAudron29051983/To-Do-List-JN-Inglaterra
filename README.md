@@ -467,3 +467,35 @@
 
 * [x] 4 Correos
 
+## Tareas 03-11-2022
+
+* [x] 5 Correos
+
+## Tareas 04-11-2022
+
+* [x] 5 Correos
+
+## Tareas 07-11-2022
+
+* [x] 18 Correos
+
+## Tareas 08-11-2022
+
+* [] 16 Correos
+
+* [] Reunión de directores
+
+## Tareas 09-11-2022
+
+* [] 5 Correos
+
+## Tareas 10-11-2022
+
+* [] 7 Correos
+
+* [] Correo de la contadora sobre superavits junta
+
+
+
+
+
