@@ -534,3 +534,88 @@
 
 * [x] 9 Correos
 
+## Tareas 24-11-2022
+
+* [X] 3 Correos
+
+## Tareas 25-11-2022
+
+* [x] 7 Correos
+
+* [X] Visitas de aulas
+
+* [x] Revisión de inventarios
+
+## Tareas 28-11-2022
+
+* [X] 14 Correos
+
+* [x] Reunión de personal
+
+## Tareas 29-11-2022
+
+* [x] 13 Correos
+
+* [X] Reunión de padres Seguridad Vial 
+
+## Tareas 30-11-2022
+
+* [x] 11 Correos
+
+* [x] Censo Final 2022
+
+## Tareas 01-12-2022
+
+* [x] 20 Correos
+
+* [X] Revisión títulos privados
+
+## Tareas 02-12-2022
+
+* [x] 4 Correos
+
+## Tareas 06-12-2022
+
+* [x] 27 Correos
+
+## Tareas 07-12-2022
+
+* [x] 7 Correos
+
+## Tareas 08-12-2022
+
+* [x] Actividad Reunión de Directores
+
+## Tareas 09-12-2022
+
+* [x] 14 Correos
+
+## Tareas 12-12-2022
+
+* [x] 12 Correos
+
+## Tareas 13-12-2022
+
+* [x] 10 Correos
+
+## Tareas 15-12-2022
+
+* [X] 7 Correos
+
+## Tareas 16-12-2022
+
+* [x] 16 Correos
+
+## Tareas 19-12-2022
+
+* [X] 8 Correos
+
+## Tareas 20-12-2022
+
+* [X] 13 Correos
+
+* [x] Convivio Patronato, Junta y personal docente y administrativo.
+
+## Tareas 21-12-2022
+
+* [x] 9 Correos 
